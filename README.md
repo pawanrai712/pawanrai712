@@ -1,4 +1,4 @@
-👋 Hi, I’m @JayaVerma49
+👋 Hi, I’m @pawanrai712
 👀 I’m interested in web development, AI, and open-source projects.
 🌱 I’m currently learning Python and React.
 💞 I’m looking to collaborate on innovative web applications and machine learning projects.
